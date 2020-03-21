@@ -2,7 +2,7 @@
   .header {
     font-size: 15px;
     justify-content: flex-end;
-    background-image: url(/obrazy/man-2.jpg);
+    background-image: url(../obrazy/man-2.jpg);
   }
   .block {
     height: auto;
@@ -13,7 +13,7 @@
 
 @media all and (max-width: 992px) {
   .header {
-    background-image: url(/obrazy/man-1.jpg);
+    background-image: url(../obrazy/man-1.jpg);
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
